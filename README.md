@@ -1,4 +1,4 @@
 # Parcial Práctico 2
 
-- Nombre:
-- código:
+- Nombre: Sebastián Torres González
+- código: 202223811
